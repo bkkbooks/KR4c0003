@@ -408,6 +408,7 @@ markers:
   - {type: line-break, offset: 996, content: '', id: KR4c0003_SBCK_016-4a06}
   - {type: substitution, offset: 1003, original: 玅, replacement: 妙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16610}}
   - {type: punctuation, offset: 1013, content: (, id: KR4c0003_krp_016-bkkpn1}
+  - {type: voice, offset: 1013, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 1014, content: /, id: KR4c0003_krp_016-bkkpn2}
   - {type: punctuation, offset: 1015, content: ), id: KR4c0003_krp_016-bkkpn3}
   - {type: 'kr:newline', offset: 1015, content: '
@@ -1889,4 +1890,4 @@ markers:
       ', id: KR4c0003_krp_016-bkkkrnewl305}
   - {type: variant, offset: 4813, length: 0, content: '', WYG: 王子安集巻十六}
   back: []
-hash: sha256:f72b6aef91b0b1edcd46c485f14d70574460bf4b3936fce71b92870d7f07cc7b
+hash: sha256:13043e708909cc68b545003b7432b3f73b98b6735558714279619a3906675790

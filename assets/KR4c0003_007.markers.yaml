@@ -1026,6 +1026,7 @@ markers:
   - {type: line-break, offset: 2923, content: '', id: KR4c0003_SBCK_007-13b02}
   - {type: punctuation, offset: 2923, content: (, id: KR4c0003_krp_007-bkkpn1}
   - {type: variant, offset: 2923, length: 0, content: '', WYG: 英華此篇凡再見一稱王勃送李十五序一}
+  - {type: voice, offset: 2923, length: 35, name: note, id: n1}
   - {type: variant, offset: 2925, length: 1, content: 賔, WYG: 賓}
   - {type: variant, offset: 2930, length: 1, content: 騎, SBCK: 􅀐}
   - {type: punctuation, offset: 2940, content: /, id: KR4c0003_krp_007-bkkpn2}
@@ -1279,4 +1280,4 @@ markers:
 
       ', id: KR4c0003_krp_007-bkkkrnewl255}
   back: []
-hash: sha256:e0a265c97314bb0d95d050e1b0a94e17441a752955d0897ff0b0652fa679e7f8
+hash: sha256:b5cd82d13db9ab5948b9af52883474fe6353531b12c91731ae7473d1f291e0e8
